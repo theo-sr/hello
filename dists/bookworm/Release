@@ -2,25 +2,25 @@ Suite: bookworm
 Codename: bookworm
 Components: main
 Architectures: all armhf arm64
-Date: Wed, 28 May 2025 10:55:29 +0000
+Date: Wed, 28 May 2025 11:08:46 +0000
 MD5Sum:
- 2bc5c351250a06c16ba1f902e19bde3b      414 ./main/binary-all/Packages
- 6124855edee37267cd3940f287c73164      336 ./main/binary-all/Packages.gz
- 2bc5c351250a06c16ba1f902e19bde3b      414 ./main/binary-arm64/Packages
- 69fa6f7640f99238b4dcc3652ccf5e4f      336 ./main/binary-arm64/Packages.gz
- 2bc5c351250a06c16ba1f902e19bde3b      414 ./main/binary-armhf/Packages
- 69fa6f7640f99238b4dcc3652ccf5e4f      336 ./main/binary-armhf/Packages.gz
+ 2bc5c351250a06c16ba1f902e19bde3b      414 main/binary-all/Packages
+ 6124855edee37267cd3940f287c73164      336 main/binary-all/Packages.gz
+ 2bc5c351250a06c16ba1f902e19bde3b      414 main/binary-arm64/Packages
+ 69fa6f7640f99238b4dcc3652ccf5e4f      336 main/binary-arm64/Packages.gz
+ 2bc5c351250a06c16ba1f902e19bde3b      414 main/binary-armhf/Packages
+ 69fa6f7640f99238b4dcc3652ccf5e4f      336 main/binary-armhf/Packages.gz
 SHA1:
- 1a040a7c8340e2494c2acbeb7142435866eb17b8      414 ./main/binary-all/Packages
- 7b9cf5839250dbf63820e9fea0c64755de52922f      336 ./main/binary-all/Packages.gz
- 1a040a7c8340e2494c2acbeb7142435866eb17b8      414 ./main/binary-arm64/Packages
- 0cf0f703f7b20ad17100cef1b53911f48fa5371e      336 ./main/binary-arm64/Packages.gz
- 1a040a7c8340e2494c2acbeb7142435866eb17b8      414 ./main/binary-armhf/Packages
- 0cf0f703f7b20ad17100cef1b53911f48fa5371e      336 ./main/binary-armhf/Packages.gz
+ 1a040a7c8340e2494c2acbeb7142435866eb17b8      414 main/binary-all/Packages
+ 7b9cf5839250dbf63820e9fea0c64755de52922f      336 main/binary-all/Packages.gz
+ 1a040a7c8340e2494c2acbeb7142435866eb17b8      414 main/binary-arm64/Packages
+ 0cf0f703f7b20ad17100cef1b53911f48fa5371e      336 main/binary-arm64/Packages.gz
+ 1a040a7c8340e2494c2acbeb7142435866eb17b8      414 main/binary-armhf/Packages
+ 0cf0f703f7b20ad17100cef1b53911f48fa5371e      336 main/binary-armhf/Packages.gz
 SHA256:
- 395ff881892e1044fe03446583126dc1c0c5176e7d29f30c34bf04e99f41f6be      414 ./main/binary-all/Packages
- 8176433e87ae9d7cf0aade8227e007393f88193858a29b37407ffed3e0a7462a      336 ./main/binary-all/Packages.gz
- 395ff881892e1044fe03446583126dc1c0c5176e7d29f30c34bf04e99f41f6be      414 ./main/binary-arm64/Packages
- 1dffbf39181fcec271426edcea30d2616f6171c3dfbceb2693be241d3c3979f9      336 ./main/binary-arm64/Packages.gz
- 395ff881892e1044fe03446583126dc1c0c5176e7d29f30c34bf04e99f41f6be      414 ./main/binary-armhf/Packages
- 1dffbf39181fcec271426edcea30d2616f6171c3dfbceb2693be241d3c3979f9      336 ./main/binary-armhf/Packages.gz
+ 395ff881892e1044fe03446583126dc1c0c5176e7d29f30c34bf04e99f41f6be      414 main/binary-all/Packages
+ 8176433e87ae9d7cf0aade8227e007393f88193858a29b37407ffed3e0a7462a      336 main/binary-all/Packages.gz
+ 395ff881892e1044fe03446583126dc1c0c5176e7d29f30c34bf04e99f41f6be      414 main/binary-arm64/Packages
+ 1dffbf39181fcec271426edcea30d2616f6171c3dfbceb2693be241d3c3979f9      336 main/binary-arm64/Packages.gz
+ 395ff881892e1044fe03446583126dc1c0c5176e7d29f30c34bf04e99f41f6be      414 main/binary-armhf/Packages
+ 1dffbf39181fcec271426edcea30d2616f6171c3dfbceb2693be241d3c3979f9      336 main/binary-armhf/Packages.gz
