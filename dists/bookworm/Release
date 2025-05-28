@@ -2,19 +2,19 @@ Suite: bookworm
 Codename: bookworm
 Components: main
 Architectures: armhf arm64
-Date: Wed, 28 May 2025 10:40:50 +0000
+Date: Wed, 28 May 2025 10:45:50 +0000
 MD5Sum:
-d41d8cd98f00b204e9800998ecf8427e  main/binary-arm64/Packages
-3e6bbffa334e9d686b7ac19dea11d43f  main/binary-arm64/Packages.gz
-d41d8cd98f00b204e9800998ecf8427e  main/binary-armhf/Packages
-3e6bbffa334e9d686b7ac19dea11d43f  main/binary-armhf/Packages.gz
+d41d8cd98f00b204e9800998ecf8427e  ./main/binary-arm64/Packages
+3e6bbffa334e9d686b7ac19dea11d43f  ./main/binary-arm64/Packages.gz
+d41d8cd98f00b204e9800998ecf8427e  ./main/binary-armhf/Packages
+3e6bbffa334e9d686b7ac19dea11d43f  ./main/binary-armhf/Packages.gz
 SHA1:
-da39a3ee5e6b4b0d3255bfef95601890afd80709  main/binary-arm64/Packages
-158108b636a7d8623b32fe09c5ad7630725bf5ea  main/binary-arm64/Packages.gz
-da39a3ee5e6b4b0d3255bfef95601890afd80709  main/binary-armhf/Packages
-158108b636a7d8623b32fe09c5ad7630725bf5ea  main/binary-armhf/Packages.gz
+da39a3ee5e6b4b0d3255bfef95601890afd80709  ./main/binary-arm64/Packages
+158108b636a7d8623b32fe09c5ad7630725bf5ea  ./main/binary-arm64/Packages.gz
+da39a3ee5e6b4b0d3255bfef95601890afd80709  ./main/binary-armhf/Packages
+158108b636a7d8623b32fe09c5ad7630725bf5ea  ./main/binary-armhf/Packages.gz
 SHA256:
-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  main/binary-arm64/Packages
-c1a6777cf778b442b045594f84141a8810408be5e87c2fb4cc5dff9b4f0e6d84  main/binary-arm64/Packages.gz
-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  main/binary-armhf/Packages
-c1a6777cf778b442b045594f84141a8810408be5e87c2fb4cc5dff9b4f0e6d84  main/binary-armhf/Packages.gz
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  ./main/binary-arm64/Packages
+c1a6777cf778b442b045594f84141a8810408be5e87c2fb4cc5dff9b4f0e6d84  ./main/binary-arm64/Packages.gz
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  ./main/binary-armhf/Packages
+c1a6777cf778b442b045594f84141a8810408be5e87c2fb4cc5dff9b4f0e6d84  ./main/binary-armhf/Packages.gz
