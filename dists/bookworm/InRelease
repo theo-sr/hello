@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 Origin: Mon Depot APT Personnalise
 Label: Mon Depot
 Suite: bookworm
@@ -26,3 +29,19 @@ SHA256:
  4548185ea18b1f5bedeb6c5c12dc8cc6086e1ff31e202af07328af1f30b2c515      338 main/binary-arm64/Packages.gz
  395ff881892e1044fe03446583126dc1c0c5176e7d29f30c34bf04e99f41f6be      414 main/binary-armhf/Packages
  1dffbf39181fcec271426edcea30d2616f6171c3dfbceb2693be241d3c3979f9      336 main/binary-armhf/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEUuxUW88Mlh2vp+A8ewRztljRfjUFAmg3INAACgkQewRztljR
+fjWpGQ//c636pEP7ZsGgPa6tAurTvkA7qM0d5MRwVypRhggexSaQ2VHU/Ir7cYsY
+z7FWLktVilatXmwRzdEyA3iAcyM91Gyxg8NqHl84baZdfOUINAaiC2FBT4aux8rp
+tFv7I7lZBMpNkmibCBG9IGEP6UPqBnOLsU27nRRnBkbCKC09KT3sKL931bNCj4Wi
+aSa3oYaSo8VWRUuLw57WFynLbTY0ONgb9ySyrw9raIaAr9aitL1bOPlJmaNQEobi
+j8VpIC3JCfaGv4HkviLGTtW4+zMjv/0TJ2AQAAPctUki0HOpFLW6SDKhesns+EI7
+3Bxa0+UwtVdPEn/3SjF26krSCzkIPUx3XZBagb47NjbVQg+uLSY2+0xtvl34t1Xf
+EDIeRq+fSreVy7Dz/j81MJ5rpkXf1mqa0z4HDnGyUnnlAGOjpSQd21sat72t81+Q
+YATreGcxSZnITeIse3pqbw7Mgw7s7sNzsm8n0jKKl65bV9yf5CU4R8YpJp/61/Lz
+k4D5w+Q5ixgDrDvhE/0Tx9RVWQO+psgGAe2aPLrfjM/cOApMUH0FdFKiE2fwfRTT
+tyhlkDFtIxvh4UKQ/hCToPmqacb91OMu9uzDIcEAYt0CJh2Hb2fBm22jdfj5mXl/
+bQjlu5CE56diXm0kS6twm2G/K7h0wEvRQdjv3rgJEntJN65AQWA=
+=D+8E
+-----END PGP SIGNATURE-----
