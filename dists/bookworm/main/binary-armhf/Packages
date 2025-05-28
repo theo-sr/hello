@@ -1,13 +1,13 @@
-Package: hello
+Package: hello-custom
 Version: 0.1
 Architecture: all
 Maintainer: Theo SERE <theo.sere1@gmail.com>
 Depends: bash
-Filename: pool/main/hello.deb
-Size: 956
-MD5sum: d405d8df56c61b5fb40366b63b4c26b9
-SHA1: 170246d56e0294dbd0fc180ae3ac98ab68d4e3dc
-SHA256: 2f920cef4a29ff59f2df9c532d29bf46a6040f09c19836a86b6b63eb49adfb80
+Filename: pool/main/hello-custom.deb
+Size: 964
+MD5sum: d0520d344c6a7fbe81b67e111725dce4
+SHA1: 1857f1d2cf815ab571bf47cfa840d2f9f7d74bdc
+SHA256: 92c96b2446410cfa4dcf011db691d5bb974ab3506562279ae633f0a69ff678a4
 Section: non-free
 Priority: optional
 Homepage: https://hexa-ai.fr
