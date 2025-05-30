@@ -1,5 +1,7 @@
 #!/bin/bash
 # À configurer :
+rm dists/bookworm/main/binary-arm64/Packages
+rm dists/bookworm/main/binary-arm64/Packages.gz
 DIST="bookworm"
 YOUR_GPG_KEY_ID="7B0473B658D17E35" # Ton ID de clé GPG
 REPO_ROOT=$(pwd) # S'assure qu'on est à la racine du repo git (ex: /home/admin/test/hello)
