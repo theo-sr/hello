@@ -18,6 +18,21 @@ Version: 0.2
 Architecture: arm64
 Maintainer: Theo SERE <theo.sere1@gmail.com>
 Depends: bash
+Filename: pool/main/hello-custom_0.3.deb
+Size: 992
+MD5sum: 3bc9b23b81833a47039a9ee3f0052cd9
+SHA1: c009568c4d83d8a99dad80475ee81240ad9f3adb
+SHA256: f1e967e9f76eb46481bb6b393cb57adecab50015fec53b2856948f4eb5d4ae86
+Section: non-free
+Priority: optional
+Homepage: https://hexa-ai.fr
+Description: Petit bonjour
+
+Package: hello-custom
+Version: 0.2
+Architecture: arm64
+Maintainer: Theo SERE <theo.sere1@gmail.com>
+Depends: bash
 Filename: pool/main/hello-custom_0.2.deb
 Size: 992
 MD5sum: 15e7179d98623f701604cea56e9c5575
