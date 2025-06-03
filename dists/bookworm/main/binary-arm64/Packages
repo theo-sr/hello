@@ -5,13 +5,13 @@ Maintainer: Theo SERE <theo.sere1@gmail.com>
 Depends: bash
 Filename: pool/main/hello-custom_0.1.deb
 Size: 980
-MD5sum: 23cf1cb49ce5bc011331ebbc77611673
-SHA1: 580286ea492520caf6c6699a8d88246c4347adf0
-SHA256: ea86256f9f74398eb853e13050b69fd3327fe2cc3a32f9805b25234686686e85
+MD5sum: da7d25c3b35049b09b9bf9c7c3a4f9fc
+SHA1: cea50f083f16d32cdf799a89cc7e17b2786bf2d7
+SHA256: 29b97da4641f50bb34d1c696c8929b62ae2119b46827509ded1d1bff0464c82d
 Section: non-free
 Priority: optional
 Homepage: https://hexa-ai.fr
-Description: Petit bonjour
+Description: Petit bonjour v1
 
 Package: hello-custom
 Version: 0.2
@@ -19,14 +19,14 @@ Architecture: arm64
 Maintainer: Theo SERE <theo.sere1@gmail.com>
 Depends: bash
 Filename: pool/main/hello-custom_0.2.deb
-Size: 992
-MD5sum: 15e7179d98623f701604cea56e9c5575
-SHA1: 5767fc6fd13c67682fb0abca20c888b9c176cc72
-SHA256: 848ba3beb1275bf0d8b40e75bb01e82448894d1a3ce8ca8d0e1f31c8e7dc62ea
+Size: 980
+MD5sum: f35c5cf079492bff9bee5b57d228ec81
+SHA1: 4d03366817194d8d4df8529295e3d257ae6d05f9
+SHA256: b7dd89d5070c73d1deb2333b78fca6ea145e8aaaf97d1ab77ef43a1cf5a8370f
 Section: non-free
 Priority: optional
 Homepage: https://hexa-ai.fr
-Description: Petit bonjour
+Description: Petit bonjour v2
 
 Package: hello-custom
 Version: 0.3
@@ -35,11 +35,11 @@ Maintainer: Theo SERE <theo.sere1@gmail.com>
 Depends: bash
 Filename: pool/main/hello-custom_0.3.deb
 Size: 1000
-MD5sum: 1aa4f4706dff4dd091a59c0b68932f5d
-SHA1: e2504f6f3c3ba8b929b299506a76f670a804d1db
-SHA256: f3bc523d18fe9c8e75470e456c832b0acaafae80313191f16b7a295b1e91cc54
+MD5sum: 8de79f4c2185c079fd84447e8a1bde2c
+SHA1: a55ab7af33512315b9eab51ca6a1f73cc8312c1b
+SHA256: 79e9d446deb85df22de2662f43392480ef44f8b3ae3b3496e1939858a799aaac
 Section: non-free
 Priority: optional
 Homepage: https://hexa-ai.fr
-Description: Petit bonjour
+Description: Petit bonjour v3
 
